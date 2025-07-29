@@ -1,0 +1,22 @@
+.header {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  background-image: url("img2.png");
+  color: red;
+}
+
+.body {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  background-image: url("img.png");
+  color: rgb(255, 255, 255); /* Example: white text */
+}
+
+.footer {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  color: rgb(255, 255, 255);
+}
